@@ -2,7 +2,7 @@
 - 👀 I’m interested in data journalism
 - 🌱 I’m currently learning how to code with Python
 - 💞️ I’m looking to collaborate on journalist investigations
-- 🦦 Check my journalistic work at erikaliliancontreras.com
+- 🦦 Check my journalistic work at [erikaliliancontreras.com](erikaliliancontreras.com)
 - 📫 Come say hi at erika.contreraslv@gmail.com
 
 <!---
