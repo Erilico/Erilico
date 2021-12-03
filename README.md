@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to code with Python
 - 💞️ I’m looking to collaborate on journalist investigations
 - 🦦 Check my data-driven stories at erikaliliancontreras.com
-- 📫 Come say hi at erika.contreraslv@gmail.com
 
 <!---
 Erilico/Erilico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
